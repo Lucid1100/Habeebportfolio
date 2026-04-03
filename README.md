@@ -40,7 +40,7 @@ A Crypto Market Multi-View Analysis Dashboard exploring overall market performan
 
 The dashboard is structured into four sections. Overview, comparative analysis, individual asset performance, and correlation analysis, hghlighting key trends, relationships between assets, and market behaviour to support deeper finanacial insights and decision-making.  
 
-[Read More](Crypto_Dashboard_Report.pdf)
+[Read More](assests/Crypto_Dashboard_Report.pdf)
 
 **Smoking Health Risk Analysis**
 
