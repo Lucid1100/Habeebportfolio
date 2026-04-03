@@ -14,7 +14,7 @@ I specialize in end-to-end data analysis, including data cleaning, transformatio
 
 **FIFA WOLRD CUP ANALYSIS**
 
-![FWCA](https://github.com/user-attachments/assets/e4f79977-bb60-47c0-914f-806f0495dbe4)
+![FWCA](https://github.com/user-attachments/assets/4827563f-5f08-46ed-86af-a8187435d6cc)
 
 A historical FIFA World Cup analysis (1930-2022).
 
@@ -24,7 +24,7 @@ I explored and identified trends in team dominance, performance consistency, and
 
 **Sexually Transmitted Diseases Dashboard**
 
-![STDD](https://github.com/user-attachments/assets/febc9a9d-2fa6-445f-8b0f-43a0f025b245)
+![STDD](https://github.com/user-attachments/assets/416be674-345f-4152-a689-9b0e56145a2a)
 
 A sexually transmitted diseases (STD) dashboard analysis exploring patterns in prevalence, distribution, and reported cases across different categories.
 
@@ -34,7 +34,7 @@ The dashboard highlights key trends in infection rates, identifies high-risk gro
 
 **Crypto Market Analytical Dashboard**
 
-![CMAD](https://github.com/user-attachments/assets/9d05a163-9172-4b85-9e23-47b99b758019)
+![CMAD](https://github.com/user-attachments/assets/a01f55a9-3276-4200-89f7-64daa33def9a)
 
 A Crypto Market Multi-View Analysis Dashboard exploring overall market performance, price movements, and trading activity of selected cryptocurrencies.
 
