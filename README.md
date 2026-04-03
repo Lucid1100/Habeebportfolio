@@ -44,7 +44,7 @@ The dashboard is structured into four sections. Overview, comparative analysis, 
 
 **Smoking Health Risk Analysis**
 
-![SHRA](https://github.com/user-attachments/files/26460236/shra.pdf)
+![SHRA](https://github.com/user-attachments/assets/77978d4b-98ae-440f-ab5f-b33b84d2c302)
 
 A smoking health risk analyis examining the impact of smoking on major organs, including the lungs, liver, heart and kidney.
 
