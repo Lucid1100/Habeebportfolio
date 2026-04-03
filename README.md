@@ -30,7 +30,7 @@ A sexually transmitted diseases (STD) dashboard analysis exploring patterns in p
 
 The dashboard highlights key trends in infection rates, identifies high-risk groups, and providess visual insights to support public health understanding awareness.
 
-[Read More](assets/Conversion-rate-analysis-report.pdf)   
+[Read More](STI_DASHBOARD.pdf.pptx)   
 
 **Crypto Market Analytical Dashboard**
 
