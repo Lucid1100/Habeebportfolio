@@ -52,7 +52,7 @@ The analysis highlights both the adverse effects on human health and comparative
 
 [Read More](assests/Smoking_Health_Risk_Analysis.pdf)
 
-[SEE MY SQL DATA CLEANING PROJECT](https://github.com/Lucid1100/SQL-DATA-CLEANING.git)
+[SEE MY SQL DATA CLEANING PROJECT](Commercial_Data_Cleaning.sql)
 
 
 
